@@ -4,7 +4,7 @@ Repository to build a CI/CD pipeline integrated with a TFX pipeline to serve a s
 
 You can run either locally or on  Cloud.
 
-## Local
+## Local1
 
 To learn how to run locally and details about the model access [Sentiment Analysis with TFX Pipelines — Local Deploy](https://arturlunardi.medium.com/sentiment-analysis-with-tfx-pipelines-local-deploy-e9daa4cbde2a).
 
